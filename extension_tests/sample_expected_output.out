@@ -1,0 +1,208 @@
+<-START->
+Input Gate: A Value: 0
+Input Gate: B Value: 0
+Input Gate: C Value: 0
+Input Gate: D Value: 0
+Output Gate: A_OR_B Value: 0
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 0
+Output Gate: A_OR_B_OR_C Value: 0
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 1
+Input Gate: B Value: 0
+Input Gate: C Value: 0
+Input Gate: D Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 0
+Input Gate: B Value: 1
+Input Gate: C Value: 0
+Input Gate: D Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 1
+Input Gate: B Value: 1
+Input Gate: C Value: 0
+Input Gate: D Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 1
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 0
+Input Gate: B Value: 0
+Input Gate: C Value: 1
+Input Gate: D Value: 0
+Output Gate: A_OR_B Value: 0
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 0
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 1
+Input Gate: B Value: 0
+Input Gate: C Value: 1
+Input Gate: D Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 0
+Input Gate: B Value: 1
+Input Gate: C Value: 1
+Input Gate: D Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 1
+Input Gate: B Value: 1
+Input Gate: C Value: 1
+Input Gate: D Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 1
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 0
+Input Gate: B Value: 0
+Input Gate: C Value: 0
+Input Gate: D Value: 1
+Output Gate: A_OR_B Value: 0
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 0
+Output Gate: A_OR_B_OR_C Value: 0
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 1
+Input Gate: B Value: 0
+Input Gate: C Value: 0
+Input Gate: D Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 0
+Input Gate: B Value: 1
+Input Gate: C Value: 0
+Input Gate: D Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 1
+Input Gate: B Value: 1
+Input Gate: C Value: 0
+Input Gate: D Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 1
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 0
+Input Gate: B Value: 0
+Input Gate: C Value: 1
+Input Gate: D Value: 1
+Output Gate: A_OR_B Value: 0
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 0
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 1
+Input Gate: B Value: 0
+Input Gate: C Value: 1
+Input Gate: D Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 0
+Input Gate: B Value: 1
+Input Gate: C Value: 1
+Input Gate: D Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 0
+Output Gate: AND_A_B_C_D Value: 0
+<- END ->
+
+<-START->
+Input Gate: A Value: 1
+Input Gate: B Value: 1
+Input Gate: C Value: 1
+Input Gate: D Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_AND_B Value: 1
+Output Gate: A_OR_B Value: 1
+Output Gate: A_OR_B_OR_C Value: 1
+Output Gate: A_AND_B Value: 1
+Output Gate: AND_A_B_C_D Value: 1
+<- END ->
+
