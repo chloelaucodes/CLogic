@@ -1,6 +1,7 @@
 # CLogic, CO120.3 C Project Extension
-## Group 13, Imperial College London 2019/2020, 1st Year Computing.
-Oliver FEDERICO, Chloe LAU, Karan OBHRAI, Leo UNOKI
+
+This is as part of Imperial College London's CO120.3C Programming (C) Extension Course, a project
+ extension collaboratively implemented by Chloe Lau, Karan Obhrai, Leo Unoki and Oliver Federico, for Group 13, Academic Year 2019/20, First Year Computing.
 
 ### Introduction
 
@@ -45,7 +46,8 @@ Each line of text can take two forms (--> excluded):
 We have taken a _trie_ approach instead of a graph approach
 - Loops will throw an error! Something cannot directly or indirectly take it's own output as it's
  own input.
-- This will be done because a gate can only take inputs previously referenced in the code (including it's unable to take itself)
+- This will be done because a gate can only take inputs previously referenced in the code
+ (including it's unable to take itself).
 
 ### CLogic Input Rules
 To run the test suite, run the './extension_tests/testsuite_runner.sh' shell script from a UNIX based OS machine.
@@ -88,4 +90,5 @@ Output Gate: C Value: 1
 ### Testing
 
 Testing would run two tests from the subdirectory `extension_tests`, just run the file
- `testsuite_runner.sh` and it will run all the tests on terminal with the shell command, first to run the execute tests, then the comparison of a recursive usage with a manually coded expected output.
+ `testsuite_runner.sh` and it will run all the tests on terminal with the shell command, first to
+  run the execute tests, then the comparison of a recursive usage with a manually coded expected output.
