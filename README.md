@@ -87,5 +87,5 @@ Output Gate: C Value: 1
 
 ### Testing
 
-Testing would run three tests from the subdirectory `extension_tests`, just run the file
- `testsuite_runner.sh` and it will run all the tests on terminal.
+Testing would run two tests from the subdirectory `extension_tests`, just run the file
+ `testsuite_runner.sh` and it will run all the tests on terminal with the shell command, first to run the execute tests, then the comparison of a recursive usage with a manually coded expected output.
