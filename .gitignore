@@ -51,4 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Transfer Files
 .DS_Store
+
+# CLion workspace files
+.idea/
