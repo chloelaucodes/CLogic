@@ -1,6 +1,6 @@
 # CLogic, CO120.3 C Project Extension
 
-This is as part of Imperial College London's CO120.3C Programming (C) Extension Course, a project
+This is as part of _Imperial College London's CO120.3C Programming (C) Extension_ course, a project
  extension collaboratively implemented by Chloe Lau, Karan Obhrai, Leo Unoki and Oliver Federico, for Group 13, Academic Year 2019/20, First Year Computing.
 
 ### Introduction
